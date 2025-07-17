@@ -144,6 +144,9 @@ main> section{
     margin-bottom: 0px;
 
  }
+ .title-text{
+    font-size: .8rem;
+ }
  #experience-badeg{
     padding: 45px 42px;
     font-size: 1.5rem;
